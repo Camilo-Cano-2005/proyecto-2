@@ -1,0 +1,11 @@
+body.fondo {
+    background-color:#778899;
+}
+
+main.cuerpo p.parrafo {
+    text-align: justify;
+    padding: 50px;
+    font-size: 2em;
+    font-weight: 600;
+    color: #fff
+}
